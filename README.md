@@ -37,3 +37,17 @@ O(n²) time complexity since every body interacts with every other body.
 To maintain numerical stability and realistic orbital motion, the simulation uses a leapfrog integration method.
 In this approach, we first compute gravitational accelerations at the current positions, then update velocities by a half-time step,
 update positions for a full time step, recompute accelerations at the new positions, and finally complete the velocity update with another half step.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
