@@ -1,1 +1,1 @@
-# SolorSystemSimulator-
+# SolarSystemSimulator-
